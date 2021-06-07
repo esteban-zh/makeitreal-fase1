@@ -1,0 +1,13 @@
+.bloque {
+  display: block;
+  width: 400px;
+  height: 100px;
+  padding: 50px;
+  border: 2px solid red;
+  margin: 20px;
+}
+
+.linea {
+  display: inline-block;
+  border: 2px solid green;
+}

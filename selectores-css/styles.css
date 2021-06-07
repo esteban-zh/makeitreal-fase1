@@ -1,0 +1,47 @@
+.box-up {
+  background-color: darkslategray;
+  height: 250px;
+  text-align: center;
+}
+
+#color {
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 100px;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p.texto {
+  color: white;
+}
+
+.box-down > div {
+  position: relative;
+  top: 55px;
+}
+
+.box-down {
+  background-color: darkslategrey;
+  height: 250px;
+  text-align: center;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: violet;
+}
