@@ -10,3 +10,4 @@ var age = 34;
 var country = "colombia";
 
 console.log(name + " tiene " + age + " años " + " y vive en " + country);
+
